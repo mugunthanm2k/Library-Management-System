@@ -115,6 +115,6 @@ npm run dev
 ```
  Runs on http://localhost:5173
  
-### 6. Open the app
+### 7. Open the app
 
 Visit http://localhost:5173 in the browser — sample data is already loaded from the SQL schema.
