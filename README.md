@@ -107,7 +107,7 @@ mvn spring-boot:run
 ```
 Runs on http://localhost:8080
 
-### 5. Run the frontend
+### 6. Run the frontend
 ```bash
 cd library_frontend
 npm install
